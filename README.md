@@ -25,7 +25,3 @@ Sketch em C++ para ESP32 que implementa o controle de um carrinho com comandos v
   - `numpy`
   - `requests`
 
-Instalação recomendada:
-
-```bash
-pip install -r requirements.txt
